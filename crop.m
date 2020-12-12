@@ -29,7 +29,7 @@ function crop(filename,append,margin)
 %   Requirements: your FIND must allow the 'last' option (version 7+?)
 %   Original file written by Andy Bliss Sept 8th, 2006. Revised May 31, 2012.
 %   Supported files: 'png', 'gif', 'bmp', 'jpg'.
-%   Revision Dec 11, 2019. by Fernando Idrovo
+
 
 
 %set the default margin width in pixels
